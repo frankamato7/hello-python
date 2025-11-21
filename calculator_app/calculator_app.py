@@ -1,4 +1,4 @@
-from calculator import add, subtract, multiply, divide
+from calculator_app.calculator import add, subtract, multiply, divide
 
 #Ask the user which operation they want
 operation = int(input("""Which operation would you like?
