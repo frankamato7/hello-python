@@ -37,6 +37,13 @@ This repo contains everything I have learned on my AI automation roadmap self-ta
 - Clean repo structure and project-level READMEs
 - Organizing by modules and lessons for a long-term learning roadmap 
 
+### APIs & HTTP
+- Making HTTP GET requests with Python
+- Using the requests library
+- Parsing and navigating JSON responses
+- Calling multiple public APIs
+- Extracting nested dictionaries from real-world API responses
+
 (You can compress/trim as you go, but this is a solid starting shape.)
 
 Going forward, at the end of each session we’ll just add/update bullets in these sections rather than maintaining a separate doc.
