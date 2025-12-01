@@ -44,3 +44,12 @@
 - Sent automated emails using SMTP + env variables
 - Handled authentication errors and secure credential storage
 - Built a complete daily summary automation script
+
+### Lesson 5 — API Automation Pipeline (12/01/25)
+- Built a complete end-to-end API automation workflow
+- Fetched job listings from a public API (RemoteOK)
+- Cleaned and transformed raw JSON into structured data
+- Saved daily job data into a timestamped CSV file
+- Created an email automation function with CSV attachments
+- Implemented a secure email delivery system using environment variables
+- Assembled the entire pipeline in a single orchestrated script
